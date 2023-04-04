@@ -3,7 +3,7 @@
 . Nama Universitas : [Universitas KH. Bahaudin Mudhary Madura](https://unibamadura.ac.id/)
 
 # Stack yang dipakai
-. laravel 9
+. laravel 9 
 . Html
 . Css
 . Php
