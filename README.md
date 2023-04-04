@@ -1,5 +1,6 @@
 # Tugas 6 Content Management System
 . Nama : [Amirudin](https://github.com/ngodingasik99)
+
 . Nama Universitas : [Universitas KH. Bahaudin Mudhary Madura](https://unibamadura.ac.id/)
 
 # Stack yang dipakai
